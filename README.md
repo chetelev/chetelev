@@ -21,3 +21,6 @@ I managed to create an online presence with my [Blog](https://dimitarc.com)
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="50" height="50"/> 
+
+
+[![Dimitar's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetelev)](https://github.com/anuraghazra/github-readme-stats)
