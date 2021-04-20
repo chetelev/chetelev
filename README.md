@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dimitar Chetelev!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/dimitarchetelev?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/dimitarchetelev)
 
 A Software Engineer specializing in JavaScript technologies. Professional experience with the technologies listed in the **toolbox** below.
 
