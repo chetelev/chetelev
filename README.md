@@ -23,4 +23,8 @@ I managed to create an online presence with my [Blog](https://dimitarc.com)
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="50" height="50"/> 
 
 
-[![Dimitar's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetelev)](https://github.com/anuraghazra/github-readme-stats)
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetelev&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Dimitar's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetelev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
