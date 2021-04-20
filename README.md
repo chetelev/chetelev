@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dimitar Chetelev!
 
+https://img.shields.io/twitter/follow/dimitarchetelev?style=social
+
 A Software Engineer specializing in JavaScript technologies. Professional experience with the technologies listed in the **toolbox** below.
 
 I managed to create an online presence with my [Blog](https://dimitarc.com)
