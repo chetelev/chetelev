@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dimitarchetelev?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=dimitarchetelev)
 
-A Software Engineer specializing in JavaScript technologies. Professional experience with the technologies listed in the **toolbox** below.
+A Software Engineer specializing in JavaScript technologies.
 
 I managed to create an online presence with my [Blog](https://dimitarc.com)
 
