@@ -5,9 +5,3 @@
 A Software Engineer specializing in JavaScript technologies.
 
 I managed to create an online presence with my [Blog](https://dimitarc.com)
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetelev&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Dimitar's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetelev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
